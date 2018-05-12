@@ -1,15 +1,21 @@
 _repo: Theatre-de-Hrotsvitha-religieuse-allemande-du-dixieme-siecle-traduit-pour-la-premiere-fois-en__48135
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Magnin, Charles
     gutenberg_agent_id: '44638'
     url: http://www.gutenberg.org/2009/agents/44638
+covers:
+- cover_type: archival
+  image_path: 48135-h/images/cover.jpg
 creator:
   author:
     agent_name: Hrotsvitha, unknown
     gutenberg_agent_id: '44637'
     url: http://www.gutenberg.org/2009/agents/44637
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48135#Theatre-de-Hrotsvitha-religieuse-allemande-du-dixieme-siecle-traduit-pour-la-premiere-fois-en_
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2015-02-02'
 gutenberg_type: Text
